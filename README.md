@@ -120,6 +120,7 @@ plt.show()
 ```
 
 ## Output:
+
 ![image](https://github.com/Lavanyajoyce/Ex1-AAI/assets/93427923/62f84fb4-f923-4541-9956-cad8db893de4)
 
 ## Result:
